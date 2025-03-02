@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Music<br>👯 I’m looking to collaborate on BNS<br>🤝 I’m looking for help with all<br>🌱 I’m currently learning Fl Studio<br>💬 Ask me about musicdirector1234@gmail.com<br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=srilankanmusicmaster&label=Profile%20views&color=0e75b6&style=flat" alt="srilankanmusicmaster" /> </p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
